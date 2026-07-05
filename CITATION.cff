@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: "Quality Systems Portfolio"
+message: "If you use or reference this repository, please cite it using the metadata below."
+type: software
+
+authors:
+
+* family-names: "Majiwa"
+  given-names: "Brian Odhiambo"
+  orcid: "https://orcid.org/0009-0004-6075-4637"
+
+repository-code: "https://github.com/brianmajiwa/Quality-Systems-Portfolio"
+
+url: "https://github.com/brianmajiwa/Quality-Systems-Portfolio"
+
+abstract: >
+A professional technical portfolio demonstrating Quality Management
+Systems, laboratory quality assurance, quality control, regulatory
+compliance, ISO-based quality principles, risk management,
+continuous improvement, scientific documentation, and applied
+quality analytics through evidence-based projects.
+
+keywords:
+
+* Quality Management Systems
+* Quality Assurance
+* Quality Control
+* ISO 17025
+* ISO 9001
+* Laboratory Quality
+* HACCP
+* GMP
+* GLP
+* CAPA
+* Risk Management
+* Process Improvement
+* Data Analytics
+* Scientific Documentation
+
+license: MIT
+
+version: "1.0.0"
+
+date-released: "2026-07-05"
